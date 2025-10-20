@@ -1,0 +1,6 @@
+@netflix_clone_gateway.Yarp_HostAddress = http://localhost:5077
+
+GET {{netflix_clone_gateway.Yarp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
